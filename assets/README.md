@@ -62,16 +62,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikilesh-garip&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilesh-garip&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=nikilesh-garip&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikilesh-garip&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikilesh-garip&theme=github-dark-blue&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikilesh-garip&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=nikilesh-garip&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <br/>
@@ -123,7 +121,7 @@ Full-stack platform checking eligibility across 12+ welfare schemes, with an AI-
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikilesh-garip&theme=github-compact&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/nikilesh-garip" alt="nikilesh-garip's Contribution Chart" width="100%"/>
 
 <br/><br/>
 
