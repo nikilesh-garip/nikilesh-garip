@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nikilesh-garip&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilesh-garip&theme=2077" alt="GitHub Profile Summary" />
 </div>
 
 <br/>
