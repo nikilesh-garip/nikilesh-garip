@@ -24,7 +24,7 @@
 
 ## About Me
 
-- 🎓 Final-year **B.Tech in AI & Machine Learning** @ Anurag University — CGPA **8.92**
+- 🎓 Final-year **B.Tech in AI & Machine Learning** @ Anurag University — CGPA **8.72**
 - 🧠 I like building models from the ground up — custom **CRNNs**, training loops, backprop by hand — not just wrapping an LLM API
 - 🛠️ Ex Technical Lead Intern @ **Swecha (Viswam.AI)** — worked on a Telugu LLM's training pipeline with an 8-member team
 - 🖥️ I run my own **self-hosted home server** (Ubuntu, Docker, PostgreSQL, Nginx Proxy Manager) as my personal infra playground
