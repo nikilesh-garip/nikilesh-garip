@@ -119,10 +119,6 @@ Full-stack platform checking eligibility across 12+ welfare schemes, with an AI-
 
 <div align="center">
 
-## 📈 Activity Graph
-
-<img src="https://ghchart.rshah.org/58A6FF/nikilesh-garip" alt="nikilesh-garip's Contribution Chart" width="100%"/>
-
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikilesh-garip&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
