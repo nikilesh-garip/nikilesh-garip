@@ -24,12 +24,16 @@
 
 ## About Me
 
-- 🎓 Final-year **B.Tech in AI & Machine Learning** @ Anurag University — CGPA **8.72**
-- 🧠 I like building models from the ground up — custom **CRNNs**, training loops, backprop by hand — not just wrapping an LLM API
-- 🛠️ Ex Technical Lead Intern @ **Swecha (Viswam.AI)** — worked on a Telugu LLM's training pipeline with an 8-member team
-- 🖥️ I run my own **self-hosted home server** (Ubuntu, Docker, PostgreSQL, Nginx Proxy Manager) as my personal infra playground
-- 🏆 **Diamond** certified on Smart Interviews, global rank **~1559 / 48,000+** in DSA
-- 📫 Reach me at **nikhil.garip@gmail.com**
+- 🎓 Final-year **B.Tech AI & ML student** at Anurag University, Hyderabad
+- 🤖 Interested in **AI/ML Engineering, Generative AI, NLP, Computer Vision & Neural Networks**
+- 🐍 Strongly focused on **Python, Machine Learning, DSA & Backend Development**
+- 🧠 Building projects with **LLMs, Hugging Face, FastAPI, RAG, embeddings & AI agents**
+- 🔧 Experienced with **Docker, Git, MongoDB, Supabase, SQL & REST APIs**
+- 🚀 Built projects across **AI-powered applications, audio classification, document processing, chatbots & computer vision**
+- ☁️ Hands-on with deployment and cloud development, including **Docker, Render and Vercel**
+- 🔬 Interested in turning research/AI ideas into **practical, deployable systems**
+- 💻 Currently preparing for **AI/ML Engineering opportunities and internships**
+- 📫 Reach me at [nikhil.garip@gmail.com](mailto:nikhil.garip@gmail.com)
 
 <br/>
 
@@ -59,17 +63,15 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub & Activity Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=nikilesh-garip&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikilesh-garip&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilesh-garip&theme=2077" alt="GitHub Profile Summary" />
+  <a href="https://github.com/nikilesh-garip">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=nikilesh-garip&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nikilesh-garip">
+    <img height="175" src="https://streak-stats.demolab.com/?user=nikilesh-garip&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
